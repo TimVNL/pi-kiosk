@@ -1,0 +1,31 @@
+# Package Setings
+preset=server
+packages=wireless-tools,nano,matchbox-window-manager,chromium-browser,xinit,x11-xserver-utils,fbset,xwit,curl
+firmware_packages=1
+
+# Locale Settings
+timezone=Europe/Amsterdam
+keyboard_layout=us
+system_default_locale=en_US
+
+#User Settings
+username=screen
+userpw=raspberry
+userperms_admin=1
+usergpu=1
+
+rootpw=
+root_ssh_pwlogin=0
+
+# Network Settings
+hostname=timvnl_kiosk
+ifname=eth0 # wlan0 for wifi
+ip_ipv6=0
+
+# Graphics Settings
+gpu_mem=64
+console_blank=0
+
+# Advanced Settings
+disable_raspberries=1
+disable_splash=1

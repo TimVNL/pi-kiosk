@@ -1,0 +1,2 @@
+screen:screen  755  /home/pi/.profile
+screen:screen  755  /home/pi/.xinitrc

@@ -1,0 +1,1 @@
+root:root  644  /etc/systemd/system/getty@tty1.service.d/override.conf
